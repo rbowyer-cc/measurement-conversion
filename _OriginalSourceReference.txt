@@ -1,0 +1,3 @@
+Code copied from:
+
+https://code-projects.org/measurement-conversion-in-php-with-source-code/
